@@ -1,1 +1,3 @@
 # Chest-X-Ray-Anomaly-Detection-using-CNNs
+
+In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.
